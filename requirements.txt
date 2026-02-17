@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-anthropic
+mp-api
+pymatgen
+chromadb
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests
+pandas
